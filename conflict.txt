@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdfg
+=======
+make conflict
+>>>>>>> mybranch
